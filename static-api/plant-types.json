@@ -1,0 +1,70 @@
+[
+  {
+    "id": 0,
+    "type": "Annuals"
+  },
+  {
+    "id": 1,
+    "type": "Bulbs"
+  },
+  {
+    "id": 2,
+    "type": "Cactus - Succulents"
+  },
+  {
+    "id": 3,
+    "type": "Climbers"
+  },
+  {
+    "id": 4,
+    "type": "Conifers"
+  },
+  {
+    "id": 5,
+    "type": "Ferns"
+  },
+  {
+    "id": 6,
+    "type": "Fruit"
+  },
+  {
+    "id": 7,
+    "type": "Herbs"
+  },
+  {
+    "id": 8,
+    "type": "Ornamental Grasses"
+  },
+  {
+    "id": 9,
+    "type": "Perennials"
+  },
+  {
+    "id": 10,
+    "type": "Roses"
+  },
+  {
+    "id": 11,
+    "type": "Shrubs"
+  },
+  {
+    "id": 12,
+    "type": "Trees"
+  },
+  {
+    "id": 13,
+    "type": "Palms - Cycads"
+  },
+  {
+    "id": 14,
+    "type": "Bamboos"
+  },
+  {
+    "id": 15,
+    "type": "Aquatic Plants"
+  },
+  {
+    "id": 16,
+    "type": "Orchids"
+  }
+]
