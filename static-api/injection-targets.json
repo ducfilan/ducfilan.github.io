@@ -1,5 +1,6 @@
 [{
 		"TargetName": "YoutubeVideoViewPage",
+		"Title": "Youtube",
 		"MatchPattern": "/^https://(www.)*youtube.com/watch?v=.*$/",
 		"Targets": [{
 			"rate": 1,
@@ -10,6 +11,7 @@
 	},
 	{
 		"TargetName": "YoutubeHomePage",
+		"Title": "Youtube",
 		"MatchPattern": "/^https://(www.)*youtube.com/{0,1}.*$/",
 		"Targets": [{
 				"rate": 1,
@@ -27,6 +29,7 @@
 	},
 	{
 		"TargetName": "FacebookWatchPage",
+		"Title": "Facebook",
 		"MatchPattern": "/^https://(www.)*facebook.com/watch{0,1}.*$/",
 		"Targets": [{
 			"rate": 1,
@@ -37,6 +40,7 @@
 	},
 	{
 		"TargetName": "FacebookGamingPage",
+		"Title": "Facebook",
 		"MatchPattern": "/^https://(www.)*facebook.com/gaming{0,1}.*$/",
 		"Targets": [{
 			"rate": 1,
@@ -47,6 +51,7 @@
 	},
 	{
 		"TargetName": "FacebookHomePage",
+		"Title": "Facebook",
 		"MatchPattern": "/^https://(www.)*facebook.com/{0,1}.*$/",
 		"Targets": [{
 				"rate": 0.2,
@@ -66,6 +71,7 @@
 	},
 	{
 		"TargetName": "GoogleHomePage",
+		"Title": "Google",
 		"MatchPattern": "/^https://(www.)*google.com*(.w*)*/{0,1}.*$/",
 		"Targets": [{
 			"rate": 1,
@@ -76,6 +82,7 @@
 	},
 	{
 		"TargetName": "TwitterPostPage",
+		"Title": "Twitter",
 		"MatchPattern": "/^https://(www.)*twitter.com/.*?/status/d+.*$/",
 		"Targets": [{
 				"rate": 0.1,
@@ -94,6 +101,7 @@
 	},
 	{
 		"TargetName": "TwitterHomePage",
+		"Title": "Twitter",
 		"MatchPattern": "/^https://(www.)*twitter.com/home/{0,1}.*$/",
 		"Targets": [{
 				"rate": 0.1,
@@ -112,6 +120,7 @@
 	},
 	{
 		"TargetName": "RedditCommentPage",
+		"Title": "Reddit",
 		"MatchPattern": "/^https://(www.)*reddit.com/r/.*?/comments/.*$/",
 		"Targets": [{
 			"rate": 1,
@@ -122,6 +131,7 @@
 	},
 	{
 		"TargetName": "RedditHomePage",
+		"Title": "Reddit",
 		"MatchPattern": "/^https://(www.)*reddit.com/{0,1}.*$/",
 		"Targets": [{
 				"rate": 0.1,
@@ -146,6 +156,7 @@
 	},
 	{
 		"TargetName": "FacebookMessengerHomePage",
+		"Title": "Facebook",
 		"MatchPattern": "/^https://(www.)*messenger.com/{0,1}.*$/",
 		"Targets": [{
 			"rate": 1,
