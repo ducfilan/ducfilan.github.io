@@ -1,0 +1,120 @@
+{
+  "YoutubeHome": [
+    {
+      "rate": 1,
+      "selector": "#primary",
+      "type": 1
+    },
+    {
+      "rate": 0.1,
+      "selector": "#contents",
+      "type": 2,
+      "siblingSelector": ".style-scope.ytd-rich-grid-row"
+    }
+  ],
+  "YoutubeVideoView": [
+    {
+      "rate": 1,
+      "selector": "#secondary.ytd-watch-flexy",
+      "type": 1
+    }
+  ],
+  "FacebookHomePage": [
+    {
+      "rate": 0.2,
+      "selector": "[role='feed']",
+      "type": 2,
+      "newGeneratedElementSelector": "div",
+      "siblingSelector": "div:first-child",
+      "strict": true
+    },
+    {
+      "rate": 1,
+      "selector": "[role=complementary]",
+      "type": 1
+    }
+  ],
+  "FacebookWatch": [
+    {
+      "rate": 1,
+      "selector": ".hybvsw6c.cjfnh4rs",
+      "type": 1
+    }
+  ],
+  "FacebookGaming": [
+    {
+      "rate": 1,
+      "selector": ".hybvsw6c.cjfnh4rs",
+      "type": 1
+    }
+  ],
+  "GoogleHomePage": [
+    {
+      "rate": 1,
+      "selector": ".o3j99.qarstb",
+      "type": 1
+    }
+  ],
+  "TwitterHomePage": [
+    {
+      "rate": 0.1,
+      "selector": "[data-testid=primaryColumn]",
+      "type": 2,
+      "newGeneratedElementSelector": "[data-testId=cellInnerDiv]",
+      "siblingSelector": "div:first-child"
+    },
+    {
+      "rate": 1,
+      "selector": ".r-1yadl64.r-1ifxtd0.r-1udh08x",
+      "type": 1
+    }
+  ],
+  "TwitterPostPage": [
+    {
+      "rate": 0.1,
+      "selector": "[data-testid=primaryColumn]",
+      "type": 2,
+      "newGeneratedElementSelector": "[data-testId=cellInnerDiv]",
+      "siblingSelector": "div:first-child"
+    },
+    {
+      "rate": 1,
+      "selector": ".r-1yadl64.r-1ifxtd0.r-1udh08x",
+      "type": 1
+    }
+  ],
+  "RedditHomePage": [
+    {
+      "rate": 0.1,
+      "selector": ".rpBJOHq2PR60pnwJlUyP0",
+      "type": 2,
+      "newGeneratedElementSelector": "div",
+      "siblingSelector": ".scrollerItem",
+      "strict": true
+    },
+    {
+      "rate": 1,
+      "selector": "._1vYrJH5uc57mZQJPN4l34E",
+      "type": 1
+    },
+    {
+      "rate": 1,
+      "selector": "#TrendingPostsContainer",
+      "type": 1
+    }
+  ],
+  "RedditCommentPage": [
+    {
+      "rate": 1,
+      "selector": "#overlayScrollContainer ._1vYrJH5uc57mZQJPN4l34E",
+      "type": 1
+    }
+  ],
+  "FacebookMessengerHomePage": [
+    {
+      "rate": 1,
+      "selector": "[role=navigation] > div:first-child > div:first-child > div:first-child > div:nth-child(2)",
+      "type": 1
+    }
+  ]
+}
