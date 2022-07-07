@@ -67,7 +67,7 @@
         "selector": "[role='feed']",
         "type": 2,
         "newGeneratedElementSelector": "div",
-        "siblingSelector": "div:first-child",
+        "siblingSelector": ".du4w35lb.k4urcfbm.l9j0dhe7.sjgh65i0",
         "strict": true
       },
       {
