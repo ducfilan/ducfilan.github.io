@@ -182,5 +182,31 @@
       }
     ],
     "Order": 10
+  },
+  {
+    "TargetName": "TiktokVideoPage",
+    "Title": "Tiktok",
+    "MatchPattern": "^https:\\/\\/(www\\.)*tiktok\\.com\\/.+?\\/video\\/.*$",
+    "Targets": [
+      {
+        "rate": 1,
+        "selector": ".tiktok-3q30id-DivContentContainer",
+        "type": 1
+      }
+    ],
+    "Order": 11
+  },
+  {
+    "TargetName": "TiktokHomePage",
+    "Title": "Tiktok",
+    "MatchPattern": "^https:\\/\\/(www\\.)*tiktok\\.com\\/{0,1}.*$",
+    "Targets": [
+      {
+        "rate": 1,
+        "selector": ".tiktok-1a4urrd-DivWrapper",
+        "type": 1
+      }
+    ],
+    "Order": 12
   }
 ]
