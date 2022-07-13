@@ -197,6 +197,19 @@
     "Order": 11
   },
   {
+    "TargetName": "TiktokLivePage",
+    "Title": "Tiktok",
+    "MatchPattern": "^https:\\/\\/(www\\.)*tiktok\\.com\\/live{0,1}.*$",
+    "Targets": [
+      {
+        "rate": 1,
+        "selector": ".tiktok-n0ytze-DivLiveSection",
+        "type": 1
+      }
+    ],
+    "Order": 12
+  },
+  {
     "TargetName": "TiktokHomePage",
     "Title": "Tiktok",
     "MatchPattern": "^https:\\/\\/(www\\.)*tiktok\\.com\\/{0,1}.*$",
@@ -207,6 +220,6 @@
         "type": 1
       }
     ],
-    "Order": 12
+    "Order": 13
   }
 ]
