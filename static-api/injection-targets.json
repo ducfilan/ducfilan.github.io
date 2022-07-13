@@ -199,7 +199,7 @@
   {
     "TargetName": "TiktokLivePage",
     "Title": "Tiktok",
-    "MatchPattern": "^https:\\/\\/(www\\.)*tiktok\\.com\\/.*?\\/{0,1}live{0,1}.*$",
+    "MatchPattern": "^https:\\/\\/(www\\.)*tiktok\\.com\\/live\\/{0,1}.*$",
     "Targets": [
       {
         "rate": 1,
@@ -208,6 +208,19 @@
       }
     ],
     "Order": 12
+  },
+  {
+    "TargetName": "TiktokLivePageSpecifiedUser",
+    "Title": "Tiktok",
+    "MatchPattern": "^https:\\/\\/(www\\.)*tiktok\\.com\\/.*?\\/{0,1}live{0,1}.*$",
+    "Targets": [
+      {
+        "rate": 1,
+        "selector": "[data-e2e=chat-room]",
+        "type": 1
+      }
+    ],
+    "Order": 13
   },
   {
     "TargetName": "TiktokHomePage",
@@ -220,6 +233,6 @@
         "type": 1
       }
     ],
-    "Order": 13
+    "Order": 14
   }
 ]
