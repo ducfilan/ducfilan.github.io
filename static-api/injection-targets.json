@@ -199,7 +199,7 @@
   {
     "TargetName": "TiktokLivePage",
     "Title": "Tiktok",
-    "MatchPattern": "^https:\\/\\/(www\\.)*tiktok\\.com\\/live{0,1}.*$",
+    "MatchPattern": "^https:\\/\\/(www\\.)*tiktok\\.com\\/.*?\\/{0,1}live{0,1}.*$",
     "Targets": [
       {
         "rate": 1,
