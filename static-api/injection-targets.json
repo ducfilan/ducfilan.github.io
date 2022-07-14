@@ -231,6 +231,12 @@
         "rate": 1,
         "selector": ".tiktok-1a4urrd-DivWrapper",
         "type": 1
+      },
+      {
+        "rate": 0.1,
+        "selector": ".tiktok-1id9666-DivMainContainer ec6jhlz0",
+        "type": 2,
+        "siblingSelector": "[data-e2e=recommend-list-item-container]"
       }
     ],
     "Order": 14
