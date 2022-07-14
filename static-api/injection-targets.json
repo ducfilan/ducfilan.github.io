@@ -234,7 +234,7 @@
       },
       {
         "rate": 0.1,
-        "selector": ".tiktok-1id9666-DivMainContainer ec6jhlz0",
+        "selector": ".tiktok-1id9666-DivMainContainer",
         "type": 2,
         "siblingSelector": "[data-e2e=recommend-list-item-container]"
       }
