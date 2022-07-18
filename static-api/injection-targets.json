@@ -1,7 +1,7 @@
 [
   {
     "TargetName": "YoutubeVideoViewPage",
-    "MatchPattern": "^https:\\/\\/(www\\.)*youtube\\.com\\/watch\\?v=.*$",
+    "MatchPattern": "^https:\\/\\/(www\\.)*youtube\\.com\\/watch\\?v=(?<id>\w+).*$",
     "Title": "Youtube",
     "Targets": [
       {
