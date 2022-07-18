@@ -173,7 +173,7 @@
   {
     "TargetName": "FacebookMessengerHomePage",
     "Title": "Facebook",
-    "MatchPattern": "^https:\\/\\/(www\\.)*messenger\\.com\\/t\\/(?<id>[\w-]+)\\/{0,1}.*$",
+    "MatchPattern": "^https:\\/\\/(www\\.)*messenger\\.com\\/t\\/(?<id>[\\w-]+)\\/{0,1}.*$",
     "Targets": [
       {
         "rate": 1,
