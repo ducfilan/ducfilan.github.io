@@ -81,7 +81,7 @@
   {
     "TargetName": "GoogleHomePage",
     "Title": "Google",
-    "MatchPattern": "^https:\\/\\/(www\\.)*google\\.com*(\\.\\w*)*\\/{0,1}.*$",
+    "MatchPattern": "^https:\\/\\/(www\\.)*google(\\.\\w+)+\\/{0,1}.*$",
     "Targets": [
       {
         "rate": 1,
