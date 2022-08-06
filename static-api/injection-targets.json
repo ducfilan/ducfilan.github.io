@@ -40,6 +40,18 @@
         "rate": 1,
         "selector": ".hybvsw6c.cjfnh4rs",
         "type": 1
+      },
+      {
+        "rate": 1,
+        "selector": ".cwj9ozl2.j83agx80.cbu4d94t.pfnyh3mw.d76ob5m9.eg9m0zos.czr60mpb.obvrjdu0",
+        "type": 1
+      },
+      {
+        "rate": 1,
+        "selector": ".jei6r52m.nhadk0th.t7yuvbsa",
+        "type": 2,
+        "newGeneratedElementSelector": ".j83agx80.cbu4d94t",
+        "siblingSelector": ".sq6gx45u.buofh1pr.cbu4d94t.j83agx80"
       }
     ],
     "Order": 2
@@ -81,6 +93,11 @@
       {
         "rate": 1,
         "selector": "[role=complementary]",
+        "type": 1
+      },
+      {
+        "rate": 1,
+        "selector": ".j83agx80.cbu4d94t.buofh1pr.l9j0dhe7",
         "type": 1
       }
     ],
