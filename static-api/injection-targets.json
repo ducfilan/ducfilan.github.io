@@ -70,6 +70,19 @@
     "Order": 3
   },
   {
+    "TargetName": "FacebookVideoPage",
+    "Title": "Facebook",
+    "MatchPattern": "^https:\\/\\/(www\\.)*facebook\\.com\\/[\\w@]+\\/videos\\/{0,1}.*$",
+    "Targets": [
+      {
+        "rate": 1,
+        "selector": ".hybvsw6c.j83agx80.n7fi1qx3.cbu4d94t.pad24vr5.poy2od1o.iyyx5f41.ap132fyt.pphwfc2g.be9z9djy",
+        "type": 1
+      }
+    ],
+    "Order": 4
+  },
+  {
     "TargetName": "FacebookHomePage",
     "Title": "Facebook",
     "MatchPattern": "^https:\\/\\/(www\\.)*facebook\\.com\\/{0,1}.*$",
@@ -104,7 +117,7 @@
         "type": 1
       }
     ],
-    "Order": 4
+    "Order": 5
   },
   {
     "TargetName": "GoogleHomePage",
