@@ -48,10 +48,9 @@
       },
       {
         "rate": 1,
-        "selector": ".jei6r52m.nhadk0th.t7yuvbsa",
+        "selector": "#watch_feed",
         "type": 2,
-        "newGeneratedElementSelector": ".j83agx80.cbu4d94t",
-        "siblingSelector": ".sq6gx45u.buofh1pr.cbu4d94t.j83agx80"
+        "siblingSelector": ".alzwoclg.cqf1kptm"
       }
     ],
     "Order": 2
