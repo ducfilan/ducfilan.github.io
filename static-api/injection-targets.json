@@ -90,8 +90,7 @@
         "rate": 0.2,
         "selector": "[role='feed']",
         "type": 2,
-        "newGeneratedElementSelector": ".a8c37x1j",
-        "siblingSelector": ".du4w35lb.k4urcfbm.l9j0dhe7.sjgh65i0",
+        "siblingSelector": ".b6ax4al1",
         "strict": true
       },
       {
