@@ -112,7 +112,7 @@
       },
       {
         "rate": 1,
-        "selector": ".rq0escxv.du4w35lb.o387gat7.qbu88020.pad24vr5.rirtxc74.dp1hu0rb.fer614ym.ni8dbmo4.stjgntxs.rek2kq2y.lpgh02oy.be9z9djy.bx45vsiw",
+        "selector": "[role=navigation] > div:first-child",
         "type": 1
       }
     ],
