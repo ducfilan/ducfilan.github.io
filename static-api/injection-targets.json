@@ -38,7 +38,7 @@
     "Targets": [
       {
         "rate": 1,
-        "selector": ".hybvsw6c.cjfnh4rs",
+        "selector": "[role=navigation] > div:first-child",
         "type": 1
       },
       {
