@@ -218,7 +218,7 @@
     "Targets": [
       {
         "rate": 1,
-        "selector": "[role=navigation] > div:first-child > div:nth-child(2) > div:first-child > div:nth-child(2)",
+        "selector": "[role=navigation] > div:first-child > div:first-child > div:nth-child(2)",
         "type": 1
       }
     ],
