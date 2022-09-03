@@ -94,22 +94,6 @@
         "strict": true
       },
       {
-        "rate": 0.2,
-        "selector": "[role='feed']",
-        "type": 2,
-        "newGeneratedElementSelector": "span",
-        "siblingSelector": ".du4w35lb.k4urcfbm.l9j0dhe7.sjgh65i0",
-        "strict": true
-      },
-      {
-        "rate": 0.2,
-        "selector": "[role='feed']",
-        "type": 2,
-        "newGeneratedElementSelector": "div",
-        "siblingSelector": ".du4w35lb.k4urcfbm.l9j0dhe7.sjgh65i0",
-        "strict": true
-      },
-      {
         "rate": 1,
         "selector": "[role=navigation] > div:first-child",
         "type": 1
