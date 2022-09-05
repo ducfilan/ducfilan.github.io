@@ -87,13 +87,6 @@
     "MatchPattern": "^https:\\/\\/(www\\.)*facebook\\.com\\/{0,1}.*$",
     "Targets": [
       {
-        "rate": 0.2,
-        "selector": "[role='feed']",
-        "type": 2,
-        "siblingSelector": ".b6ax4al1",
-        "strict": true
-      },
-      {
         "rate": 1,
         "selector": "[role=navigation] > div:first-child",
         "type": 1
