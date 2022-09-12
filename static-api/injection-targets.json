@@ -264,18 +264,5 @@
       }
     ],
     "Order": 14
-  },
-  {
-    "TargetName": "OmegleVideoPage",
-    "Title": "Omegle",
-    "MatchPattern": "^https:\\/\\/(www\\.)*omegle\\.com\\/{0,1}.*$",
-    "Targets": [
-      {
-        "rate": 1,
-        "selector": ".chatbox .logwrapper .logbox",
-        "type": 1
-      }
-    ],
-    "Order": 15
   }
 ]
