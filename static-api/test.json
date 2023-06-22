@@ -1,34 +1,41 @@
-[{
-		"id": 1,
-		"type": "cat",
-		"pets": [{
-				"id": 1,
-				"name": "Toby",
-				"breed": "Tabby"
-			},
-			{
-				"id": 2,
-				"name": "Golden Girl",
-				"breed": "Russian Blue"
-			}
-		]
-	},
-	{
-		"id": 2,
-		"type": "dog",
-		"pets": [{
-			"id": 3,
-			"name": "Goldilocks",
-			"breed": "Poodle"
-		}]
-	},
-	{
-		"id": 3,
-		"type": "fish",
-		"pets": [{
-			"id": 4,
-			"name": "Marigold",
-			"breed": "Goldfish"
-		}]
-	}
-]
+{
+	"data": [{
+			"MainId": 1111,
+			"firstName": "Sherlock",
+			"lastName": "Homes",
+			"categories": [{
+				"CategoryID": 1,
+				"CategoryName": "Example",
+				"categories": [{
+						"CategoryID": 11,
+						"CategoryName": "Example 11"
+					},
+					{
+						"CategoryID": 12,
+						"CategoryName": "Example 12",
+						"categories": [{
+								"CategoryID": 121,
+								"CategoryName": "Example 121"
+							},
+							{
+								"CategoryID": 122,
+								"CategoryName": "Example 122"
+							}
+						]
+					}
+				]
+			}]
+		},
+		{
+			"MainId": 122,
+			"firstName": "James",
+			"lastName": "Watson",
+			"categories": [{
+				"CategoryID": 2,
+				"CategoryName": "Example2"
+			}]
+		}
+	],
+	"messages": [],
+	"success": true
+}
