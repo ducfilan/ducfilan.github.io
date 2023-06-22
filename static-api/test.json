@@ -1,4 +1,4 @@
-const animals = [
+[
   { id: 1,
     type: 'cat',
     pets: [
